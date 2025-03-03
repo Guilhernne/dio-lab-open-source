@@ -15,4 +15,4 @@ Moro em Mineiros do Tietê, cidade do interior de São Paulo.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LGuilherme&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGuilherme&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
